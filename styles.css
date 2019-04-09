@@ -1,0 +1,72 @@
+body {
+    background-image: url("https://i.ytimg.com/vi/heh9sYqxKkE/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.arrow { 
+    width: 300px;
+}
+.bait {
+    font-size: 60px;
+}
+.ater {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ter {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.er {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.virus {
+    height: 150px;
+    font-size: 40px;
+}
+.YU {
+    width: 400px;
+}
+.YouR {
+    font-family: 'Merienda', cursive;
+    font-size: 60px;
+} 
+.Name {
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 50px;
+}
+.WWW {
+    border: groove lime 25px;
+    width: 700px;
+}
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+    background: yellow;
+    color: black;
+    border-bottom: solid 10px;
+    padding-bottom: 10px;
+}
+.ques {
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+}
+.Sub {
+    font-size: 30px;
+    width: 300px;
+}
+.Q { 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+input {
+    width: 1000px;
+}
+.cre {
+    font-size: 6px;
+}
